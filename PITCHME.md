@@ -1,6 +1,6 @@
 
 
-### この頃のブロックチェーン業界の動向
+### この頃のブロックチェーンの話題
 
 blockchainkyoto 06      
     
@@ -17,9 +17,9 @@ blockchainkyoto 06
      
 ---
 #### ICOの動向
-coindesk ICO tracker
-https://www.coindesk.com/ico-tracker/
-
+coindesk ICO tracker     
+https://www.coindesk.com/ico-tracker/     
+     
 7月は減少したみたいですねー。     
      
 ---    
