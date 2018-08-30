@@ -30,7 +30,7 @@ https://www.nikkei.com/article/DGXMZO34563730U8A820C1EA2000/
 https://www.worldbank.org/en/news/press-release/2018/08/23/world-bank-prices-first-global-blockchain-bond-raising-a110-million     
      
 bond-i / <span style="color:red;">B</span>lockchain <span style="color:red;">O</span>ffered <span style="color:red;">N</span>ew <span style="color:red;">D</span>ebt <span style="color:red;">I</span>nstrument    
-ASXは2020年からのブロックチェーン活用を目指す
+* ASXは2020年からのブロックチェーン活用を目指す
 https://www.asx.com.au/documents/asx-news/asx-chess-replacement-scope-and-implementation-plan.pdf
 ---
 #### 最近のブロックチェーン活用のニュース   
@@ -38,3 +38,9 @@ https://www.asx.com.au/documents/asx-news/asx-chess-replacement-scope-and-implem
 * UEFAがブロックチェーンを使ってサッカーの試合のチケットを発行     
 https://www.uefa.com/insideuefa/about-uefa/news/newsid=2566998.html     
      
+https://www.youtube.com/watch?v=RyqUEwHtiY4    
+
+===>  両者ともに詳細は今一つ不明    
+      
+---
+9-4,5 OECD Blockchain Policy forum
