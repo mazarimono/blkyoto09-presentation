@@ -27,6 +27,7 @@ https://www.coindesk.com/ico-tracker/
 * 世界銀行がイーサリウムベースのブロックチェーンを使って債券を発行    
 http://fortune.com/2018/08/24/world-bank-blockchain-bond/   
      
+Bond-I / <span style="color:red;">B</span>lockchain Offered New Debt Instrument 
 * UEFAがブロックチェーンを使ってサッカーの試合のチケットを発行     
 https://www.uefa.com/insideuefa/about-uefa/news/newsid=2566998.html     
      
