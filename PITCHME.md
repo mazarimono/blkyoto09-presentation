@@ -44,7 +44,7 @@ https://www.bloomberg.com/news/articles/2018-08-26/these-crypto-tycoons-are-abou
 * Bitfury / not yet have any concrete plans.     
 
 ---?image=cryptonews.png&size=30%&position=bottom      
-#### @color[black](3社の利益と予想時価総額)      
+# @color[black](3社の利益と予想時価総額)      
 
 ---       
 
