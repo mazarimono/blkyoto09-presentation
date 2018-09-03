@@ -15,6 +15,8 @@ blockchainkyoto 06
 * blockchainkyoto,はんなりpythonの会主催
 * 合同会社長目経営    
      
+---     
+
 #### 今日のもくじ
 * ICO動向      
 * ブロックチェーン活用のニュース     
