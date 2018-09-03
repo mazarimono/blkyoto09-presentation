@@ -43,8 +43,8 @@ https://www.bloomberg.com/news/articles/2018-08-26/these-crypto-tycoons-are-abou
 * Jihan Wu, Zhang Nangeng, Hu Dong (CEO)
 * Bitfury / not yet have any concrete plans.     
 
----?image=cryptonews.png&size=50%&position=middle      
-##### @color[white](3社の利益と予想時価総額)      
+---?image=cryptonews.png&size=cover&position=middle      
+###### @color[white](3社の利益と予想時価総額)      
 
 ---       
 
