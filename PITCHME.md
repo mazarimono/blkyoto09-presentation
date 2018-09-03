@@ -15,6 +15,12 @@ blockchainkyoto 06
 * blockchainkyoto,はんなりpythonの会主催
 * 合同会社長目経営    
      
+#### 今日のもくじ
+* ICO動向      
+* ブロックチェーン活用のニュース     
+* OECDのブロックチェーンポリシーフォーラムに関して     
+* 暗号通貨がらみ企業のIPO     
+* 
 ---
 #### ICOの動向
 coindesk ICO tracker     
@@ -33,7 +39,7 @@ bond-i / <span style="color:red;">B</span>lockchain <span style="color:red;">O</
 * ASXは2020年からのブロックチェーン活用を目指す
 https://www.asx.com.au/documents/asx-news/asx-chess-replacement-scope-and-implementation-plan.pdf
 ---
-#### 最近のブロックチェーン活用のニュース   
+#### 最近のブロックチェーン活用のニュース(2)   
 
 * UEFAがブロックチェーンを使ってサッカーの試合のチケットを発行     
 https://www.uefa.com/insideuefa/about-uefa/news/newsid=2566998.html     
@@ -43,4 +49,15 @@ https://www.youtube.com/watch?v=RyqUEwHtiY4
 ===>  両者ともに詳細は今一つ不明    
       
 ---
-9-4,5 OECD Blockchain Policy forum
+#### 9-4,5 OECD Blockchain Policy forum
+
+https://www.oecd.org/finance/oecd-blockchain-policy-forum-2018.htm    
+
+---   
+#### 暗号通貨関連3社のIPO
+##### These Crypto Tycoons Are 
+##### About Learn How Rich They Really Are
+https://www.bloomberg.com/news/articles/2018-08-26/these-crypto-tycoons-are-about-to-learn-how-rich-they-really-are      
+     
+* Bitmain, Canaan, Ebang International / mining gear    
+* Bitfury / not yet have any concrete plans.     
