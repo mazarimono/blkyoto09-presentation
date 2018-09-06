@@ -2,8 +2,8 @@
 
 ### この頃のブロックチェーンの話題
 
-blockchainkyoto 06      
-    
+blockchainkyoto #06      
+2018/09/06    
 小川　英幸
 
 ---
@@ -42,7 +42,8 @@ https://www.bloomberg.com/news/articles/2018-08-26/these-crypto-tycoons-are-abou
 * Bitmain, Canaan, Ebang International / mining gear    
 * Jihan Wu, Zhang Nangeng, Hu Dong (CEO)
 * Bitfury / not yet have any concrete plans.     
-
+BITMEXのBITMAINのIPO分析
+https://blog.bitmex.com/unboxing-bitmain/     
 ---?image=cryptonews.png&size=cover&position=middle      
 ###### @color[white](3社の利益と予想時価総額)      
 
