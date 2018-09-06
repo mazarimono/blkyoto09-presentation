@@ -66,6 +66,8 @@ https://www.uefa.com/insideuefa/about-uefa/news/newsid=2566998.html
      
 https://www.youtube.com/watch?v=RyqUEwHtiY4    
 
+---    
+
 ===>  両者ともに詳細は今一つ不明    
       
 ---     
@@ -74,5 +76,17 @@ https://www.youtube.com/watch?v=RyqUEwHtiY4
 
 https://www.oecd.org/finance/oecd-blockchain-policy-forum-2018.htm    
 
-
+agenda     
+http://www.oecd.org/finance/financial-markets/OECD-Blockchain-Policy-Forum-2018-Agenda.pdf    
+     
 ---     
+
+#### 経済危機が止まらない南米ベネズエラの水面下で広がる仮想通貨の波     
+
+http://diamond.jp/articles/-/178703       
+     
+ベネズエラ：原油を担保のようにして政府が仮想通貨Petroを発行    
+http://www.elpetro.gob.ve/index-en.html#home      
+     
+記事では、政府に信用がないためPetroは使われていないがDashが使われているとレポートされている。      
+       
