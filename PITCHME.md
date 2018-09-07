@@ -23,6 +23,8 @@ blockchainkyoto #06
 * ブロックチェーン活用のニュース     
 * OECDのブロックチェーンポリシーフォーラムに関して     
 * ベネズエラで仮想通貨が使われ始めている      
+* ETHのマイニング報酬が3eth==> 2ethに    
+
 ---
 
 #### ICOの動向
@@ -108,3 +110,11 @@ http://www.elpetro.gob.ve/pdf/en/Whitepaper_Petro_en.pdf
 記事では、政府に信用がないためPetroは使われていないがDashが使われているとレポートされている。      
 ベネズエラ国債の格下げについて     
 https://www.nam.co.jp/news/mpdf/171121_tj2.pdf       
+
+---     
+      
+#### EIP1234が採用されETHのマイニング報酬が2ETHに      
+      
+投票ではEIP-858の1ETHが一番人気だったわけですが・・・・     
+    
+https://github.com/ethereum/pm/issues/55
