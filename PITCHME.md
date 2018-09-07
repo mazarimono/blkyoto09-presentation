@@ -32,8 +32,7 @@ https://www.coindesk.com/ico-tracker/
      
 7月は減少しました。         
 <br>　　　　
-みんな詐欺案件多すぎてお金でなくなってきたんですかね？？？     
-でも50億集めてjpeg3枚と馬鹿にされていたモバイルゴーからは     
+50億集めてjpeg3枚と馬鹿にされていたモバイルゴーからは     
 頑張ってるよと2通ほどメールが来ましたw     
 
 ---     
@@ -54,7 +53,8 @@ https://blog.bitmex.com/unboxing-bitmain/
 ---       
 
 #### 最近のブロックチェーン活用のニュース   
-* 世界銀行がイーサリウムベースのブロックチェーンを使って債券を発行    
+* 世界銀行がイーサリウムベースのブロックチェーンを     
+使って債券を発行    
 https://www.nikkei.com/article/DGXMZO34563730U8A820C1EA2000/     
 2年債/ 90億円分/ 投資オーストラリアの会社
 https://www.worldbank.org/en/news/press-release/2018/08/23/world-bank-prices-first-global-blockchain-bond-raising-a110-million     
