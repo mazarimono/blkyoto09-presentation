@@ -8,7 +8,7 @@ blockchainkyoto #06
 
 ---
 #### 自己紹介
-小川　英幸
+
 * 自己資金を株式で運用      
 * 仮想通貨の運用はこのところ再開模様    
 * 仮想通貨からブロックチェーンに興味を持つ    
@@ -22,7 +22,7 @@ blockchainkyoto #06
 * 暗号通貨がらみ企業のIPO     
 * ブロックチェーン活用のニュース     
 * OECDのブロックチェーンポリシーフォーラムに関して     
-* 
+* ベネズエラで仮想通貨が使われ始めている      
 ---
 
 #### ICOの動向
@@ -73,6 +73,14 @@ https://www.youtube.com/watch?v=RyqUEwHtiY4
       
 ---     
 
+#### Blockchain実用例     
+
+#### Microsoft AzureのBlockchainのページ
+https://azure.microsoft.com/en-us/solutions/blockchain/      
+     
+#### Hyperledger MonetaGo
+https://www.hyperledger.org/resources/publications/monetago-case-study?utm_source=hlsite&utm_medium=banner&utm_campaign=hlcasestudy&utm_content=monetago
+
 #### 9-4,5 OECD Blockchain Policy forum
 
 https://www.oecd.org/finance/oecd-blockchain-policy-forum-2018.htm    
@@ -86,8 +94,9 @@ http://www.oecd.org/finance/financial-markets/OECD-Blockchain-Policy-Forum-2018-
 
 http://diamond.jp/articles/-/178703       
      
-ベネズエラ：原油を担保のようにして政府が仮想通貨Petroを発行    
+ベネズエラ：原油を担保にして政府が仮想通貨Petroを発行($5bil なぜかNEM)    
 http://www.elpetro.gob.ve/index-en.html#home      
-     
+http://www.elpetro.gob.ve/pdf/en/Whitepaper_Petro_en.pdf     
 記事では、政府に信用がないためPetroは使われていないがDashが使われているとレポートされている。      
-       
+ベネズエラ国債の格下げについて     
+https://www.nam.co.jp/news/mpdf/171121_tj2.pdf       
