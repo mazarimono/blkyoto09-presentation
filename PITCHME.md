@@ -85,6 +85,8 @@ https://azure.microsoft.com/en-us/solutions/blockchain/
 #### Hyperledger MonetaGo
 https://www.hyperledger.org/resources/publications/monetago-case-study?utm_source=hlsite&utm_medium=banner&utm_campaign=hlcasestudy&utm_content=monetago
 
+---     
+
 #### 9-4,5 OECD Blockchain Policy forum
 
 https://www.oecd.org/finance/oecd-blockchain-policy-forum-2018.htm    
