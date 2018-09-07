@@ -94,6 +94,8 @@ https://www.oecd.org/finance/oecd-blockchain-policy-forum-2018.htm
 agenda     
 http://www.oecd.org/finance/financial-markets/OECD-Blockchain-Policy-Forum-2018-Agenda.pdf    
      
+Blockchain要約     
+http://www.oecd.org/finance/OECD-Blockchain-Primer.pdf    
 ---     
 
 #### 経済危機が止まらない南米ベネズエラの水面下で広がる仮想通貨の波     
